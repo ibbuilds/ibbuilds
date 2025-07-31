@@ -6,8 +6,7 @@ I'm a full-stack engineer focused on building reliable, accessible, and scalable
 - Creating clean, fast, and intuitive interfaces  
 - Building a portfolio that reflects real, production-level work
 
-[LinkedIn](https://www.linkedin.com/in/ivanbravodev/)  
-[Email](mailto:ivanbravoprofessional@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ivanbravodev/) | [Email](mailto:ivanbravoprofessional@gmail.com)
 
 ---
 
