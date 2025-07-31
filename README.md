@@ -2,10 +2,6 @@
 
 I'm a full-stack engineer focused on building reliable, accessible, and scalable web applications using React, Node.js, TypeScript, Express, and PostgreSQL. Currently, I'm developing a real-world collaboration platform for Lions Clubs International, with an emphasis on performance, usability, and clean design standards.
 
-
-
-## Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -19,8 +15,6 @@ I'm a full-stack engineer focused on building reliable, accessible, and scalable
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
-
 
 ### Current Focus
 
