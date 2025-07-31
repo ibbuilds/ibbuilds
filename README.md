@@ -4,7 +4,7 @@ I'm a full-stack developer focused on building reliable, accessible, and scalabl
 
 Currently, I'm developing a real-world collaboration platform for Lions Clubs International, with an emphasis on performance, usability, and clean design standards.
 
----
+<hr style="border: none; border-top: 1px solid #333; margin: 24px 0;" />
 
 ## Tech Stack
 
@@ -22,7 +22,7 @@ Currently, I'm developing a real-world collaboration platform for Lions Clubs In
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
+<hr style="border: none; border-top: 1px solid #333; margin: 24px 0;" />
 
 ### Current Focus
 
@@ -30,13 +30,13 @@ Currently, I'm developing a real-world collaboration platform for Lions Clubs In
 - Creating clean, fast, and intuitive interfaces  
 - Building a portfolio that reflects real, production-level work
 
----
+<hr style="border: none; border-top: 1px solid #333; margin: 24px 0;" />
 
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/ivanbravodev/)  
 [Email](mailto:ivanbravoprofessional@gmail.com)
 
----
+<hr style="border: none; border-top: 1px solid #333; margin: 24px 0;" />
 
 I focus on clarity, consistency, and real-world impact. No distractions—just thoughtful engineering and finished results.
