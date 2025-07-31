@@ -6,6 +6,11 @@ I'm a full-stack engineer focused on building reliable, accessible, and scalable
 - Creating clean, fast, and intuitive interfaces  
 - Building a portfolio that reflects real, production-level work
 
+[LinkedIn](https://www.linkedin.com/in/ivanbravodev/)  
+[Email](mailto:ivanbravoprofessional@gmail.com)
+
+---
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -25,7 +30,3 @@ I'm a full-stack engineer focused on building reliable, accessible, and scalable
   <img src="https://img.shields.io/badge/Figma-ff082d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Figjam-9a4dff?style=for-the-badge&logo=figjam&logoColor=white" alt="Figjam" />
 </p>
-
-
-[LinkedIn](https://www.linkedin.com/in/ivanbravodev/)  
-[Email](mailto:ivanbravoprofessional@gmail.com)
