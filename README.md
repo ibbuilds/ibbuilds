@@ -1,6 +1,5 @@
 ## 👋 Hey, I'm Ivan Bravo
 
-🎯 **Focused. Building. Not stopping.**  
 I’m a Full Stack Software Engineer building scalable, accessible, and production-ready tools—using **React**, **Node.js**, **TypeScript**, **Express**, and **PostgreSQL**.
 
 Right now, I'm working on a real-world collaboration platform for **Lions Clubs International**, focused on usability, performance, and modern design standards.
