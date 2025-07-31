@@ -1,30 +1,30 @@
-## 👋 Hey, I'm Ivan Bravo
+## 👋 Hi, I'm Ivan Bravo
 
-I’m a Full Stack Software Engineer building scalable, accessible, and production-ready tools—using **React**, **Node.js**, **TypeScript**, **Express**, and **PostgreSQL**.
+I'm a full-stack developer who builds reliable, accessible, and scalable web apps using **React**, **Node.js**, **TypeScript**, **Express**, and **PostgreSQL**.
 
-Right now, I'm working on a real-world collaboration platform for **Lions Clubs International**, focused on usability, performance, and modern design standards.
+I'm working on a real-world platform for **Lions Clubs International** to help teams collaborate more easily—with a strong focus on clean design, performance, and usability.
 
 ---
 
-### 🛠️ Tech Stack
-- **Frontend:** React, TypeScript, Tailwind, Figma
+### 🛠 Tech Stack
+- **Frontend:** React, TypeScript, Tailwind CSS, Figma
 - **Backend:** Node.js, Express, PostgreSQL, Supabase
-- **DevOps:** CI/CD, Vercel, Docker, GitHub Actions
-- **Other:** WebSockets, REST APIs, modern UI/UX patterns
+- **DevOps:** Docker, GitHub Actions, CI/CD, Vercel
+- **Other:** REST APIs, WebSockets, accessible UI/UX
 
 ---
 
-### 🚀 Current Focus
-- Building out and shipping a full-stack platform for global clubs
-- Prioritizing accessibility, clean UI, and meaningful user workflows
-- Polishing a portfolio that reflects professional-level delivery
+### 🚀 What I'm focused on
+- Building and launching a full-stack platform for global use
+- Designing clean, fast, and easy-to-use interfaces
+- Making my portfolio reflect real, finished work
 
 ---
 
-### 📫 Let’s connect
+### 📫 Get in touch
 - [LinkedIn](https://www.linkedin.com/in/ivanbravodev/)
 - [Email](mailto:ivanbravoprofessional@gmail.com)
 
 ---
 
-💡 *I care about clarity, real-world impact, and actually finishing things. No fluff—just clean code, thoughtful design, and working software.*
+💡 *I believe in building useful things, writing clean code, and finishing what I start.*
