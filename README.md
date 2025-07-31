@@ -16,15 +16,9 @@ I'm a full-stack engineer focused on building reliable, accessible, and scalable
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### Current Focus
-
 - Delivering a full-stack platform designed for global use  
 - Creating clean, fast, and intuitive interfaces  
 - Building a portfolio that reflects real, production-level work
-
-<hr style="border: none; border-top: 1px solid #333; margin: 24px 0;" />
-
-### Contact
 
 [LinkedIn](https://www.linkedin.com/in/ivanbravodev/)  
 [Email](mailto:ivanbravoprofessional@gmail.com)
