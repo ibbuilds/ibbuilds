@@ -1,30 +1,33 @@
-## 👋 Hi, I'm Ivan Bravo
+## Ivan Bravo
 
-I'm a full-stack developer who builds reliable, accessible, and scalable web apps using **React**, **Node.js**, **TypeScript**, **Express**, and **PostgreSQL**.
+I'm a full-stack developer focused on building reliable, accessible, and scalable web applications using React, Node.js, TypeScript, Express, and PostgreSQL.
 
-I'm working on a real-world platform for **Lions Clubs International** to help teams collaborate more easily—with a strong focus on clean design, performance, and usability.
-
----
-
-### 🛠 Tech Stack
-- **Frontend:** React, TypeScript, Tailwind CSS, Figma
-- **Backend:** Node.js, Express, PostgreSQL, Supabase
-- **DevOps:** Docker, GitHub Actions, CI/CD, Vercel
-- **Other:** REST APIs, WebSockets, accessible UI/UX
+Currently, I'm developing a real-world collaboration platform for Lions Clubs International, with an emphasis on performance, usability, and clean design standards.
 
 ---
 
-### 🚀 What I'm focused on
-- Building and launching a full-stack platform for global use
-- Designing clean, fast, and easy-to-use interfaces
-- Making my portfolio reflect real, finished work
+### Tech Stack
+
+**Frontend:** React, TypeScript, Tailwind CSS, Figma  
+**Backend:** Node.js, Express, PostgreSQL, Supabase  
+**DevOps:** Docker, GitHub Actions, CI/CD, Vercel  
+**Other:** REST APIs, WebSockets, accessibility-first UI/UX
 
 ---
 
-### 📫 Get in touch
-- [LinkedIn](https://www.linkedin.com/in/ivanbravodev/)
-- [Email](mailto:ivanbravoprofessional@gmail.com)
+### Current Focus
+
+- Delivering a full-stack platform designed for global use  
+- Creating clean, fast, and intuitive interfaces  
+- Building a portfolio that reflects real, production-level work
 
 ---
 
-💡 *I believe in building useful things, writing clean code, and finishing what I start.*
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/ivanbravodev/)  
+[Email](mailto:ivanbravoprofessional@gmail.com)
+
+---
+
+I focus on clarity, consistency, and real-world impact. No distractions—just thoughtful engineering and finished results.
