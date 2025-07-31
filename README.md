@@ -13,7 +13,7 @@ I'm a full-stack engineer focused on building reliable, accessible, and scalable
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/HTML-f0672a?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/HTML-f0672a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-39acdd?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-1a6997?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
