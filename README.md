@@ -22,7 +22,3 @@ I'm a full-stack engineer focused on building reliable, accessible, and scalable
 
 [LinkedIn](https://www.linkedin.com/in/ivanbravodev/)  
 [Email](mailto:ivanbravoprofessional@gmail.com)
-
-<hr style="border: none; border-top: 1px solid #333; margin: 24px 0;" />
-
-I focus on clarity, consistency, and real-world impact. No distractions—just thoughtful engineering and finished results.
