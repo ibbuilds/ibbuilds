@@ -23,9 +23,8 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-1a6997?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/aws-1d242e?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/aws-1d242e?style=for-the-badge&logo=alfred&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Figma-ff082d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Figjam-9a4dff?style=for-the-badge&logo=figjam&logoColor=white" alt="Figjam" />
 </p>
