@@ -1,6 +1,6 @@
 ## Building Reliable, Scalable, and Accessible Software
 
-I'm a full-stack engineer focused on building reliable, scalable, and accessible web applications using mainly React, Node.js, TypeScript, Express, and PostgreSQL. Currently, I'm developing a real-world collaboration platform for Lions Clubs International, with an emphasis on performance, usability, and clean design standards.
+I'm a full-stack engineer focused on building reliable, scalable, and accessible web applications using React, Node.js, TypeScript, Express, and PostgreSQL. Currently, I'm developing a real-world collaboration platform for Lions Clubs International, with an emphasis on performance, usability, and clean design standards.
 
 • Architecting and delivering scalable full-stack platforms built for high availability and moderate user bases
 • Designing and engineering frictionless, high-performance interfaces that drive engagement and retention
