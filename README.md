@@ -2,9 +2,9 @@
 
 I'm a full-stack engineer focused on building reliable, scalable, and accessible web applications using mainly React, Node.js, TypeScript, Express, and PostgreSQL. Currently, I'm developing a real-world collaboration platform for Lions Clubs International, with an emphasis on performance, usability, and clean design standards.
 
-- Delivering a full-stack platform designed for global use  
-- Creating clean, fast, and intuitive interfaces  
-- Building a portfolio that reflects real, production-level work
+• Architecting and delivering scalable full-stack platforms built for high availability and moderate user bases
+• Designing and engineering frictionless, high-performance interfaces that drive engagement and retention
+• Building and shipping production-grade features that reflect real-world complexity, edge cases, and scale
 
 [LinkedIn](https://www.linkedin.com/in/ivanbravodev/) | [Email](mailto:ivanbravoprofessional@gmail.com)
 
