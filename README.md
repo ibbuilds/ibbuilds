@@ -38,7 +38,7 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
   <a href="https://www.linkedin.com/in/ivanbravodev/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.hackerrank.com/your-username">
+  <a href="https://www.hackerrank.com/ivanbravodev">
     <img src="https://img.shields.io/badge/HackerRank-009e44?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="https://leetcode.com/u/ivanbravodev/">
