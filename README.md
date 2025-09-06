@@ -6,8 +6,6 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
 - Designing and engineering frictionless, high-performance interfaces that drive engagement and retention
 - Building and shipping production-grade features that reflect real-world complexity, edge cases, and scale
 
-[LinkedIn](https://www.linkedin.com/in/ivanbravodev/) | [Email](mailto:ivanbravoprofessional@gmail.com)
-
 ---
 
 <p align="left">
@@ -34,6 +32,9 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
 ---
 
 <p align="left">
+  [Email](mailto:ivanbravoprofessional@gmail.com)
+  <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=&logoColor=EA4335" alt="Gmail" />
+  <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=&logoColor=0a66c2" alt="LinkedIn" />
   <img src="https://img.shields.io/badge/HackerRank-20232A?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
   <img src="https://img.shields.io/badge/LeetCode-20232A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
 </p>
