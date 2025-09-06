@@ -6,9 +6,7 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
 - Designing and engineering frictionless, high-performance interfaces that drive engagement and retention
 - Building and shipping production-grade features that reflect real-world complexity, edge cases, and scale
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1" role="img" aria-label="divider">
-  <rect width="100%" height="1" fill="currentColor" opacity=".2"/>
-</svg>
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -31,9 +29,7 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
   <img src="https://img.shields.io/badge/Figma-ff082d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1" role="img" aria-label="divider">
-  <rect width="100%" height="1" fill="currentColor" opacity=".2"/>
-</svg>
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=lnd&logoColor=EA4335" alt="Gmail" />
