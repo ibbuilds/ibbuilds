@@ -30,3 +30,11 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Figma-ff082d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
+
+---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HackerRank-20232A?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/LeetCode-20232A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+</p>
+
