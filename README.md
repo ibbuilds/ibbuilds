@@ -33,7 +33,7 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ivanbravodev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=readme&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/ivanbravodev/">
     <img src="https://img.shields.io/badge/LeetCode-db8a12?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
