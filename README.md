@@ -31,7 +31,7 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
 
 ---
 
-<p align="left">
+<p align="center">
   <a href="mailto:ivanbravoprofessional@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -45,5 +45,3 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
     <img src="https://img.shields.io/badge/LeetCode-db8a12?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
-
-
