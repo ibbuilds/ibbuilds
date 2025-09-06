@@ -31,7 +31,7 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="mailto:ivanbravoprofessional@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
