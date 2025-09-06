@@ -32,9 +32,9 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
 ---
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=lnd&logoColor=EA4335" alt="Gmail" />
-  <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjQwIj48Y2lyY2xlIGN4PSI2MCIgY3k9IjYwIiByPSI1NSIgZmlsbD0iIzBhNjZjMiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/HackerRank-20232A?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
-  <img src="https://img.shields.io/badge/LeetCode-20232A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=lnd&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/HackerRank-20232A?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/LeetCode-20232A?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </p>
 
