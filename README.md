@@ -34,7 +34,7 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
 <p align="left">
   <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=lnd&logoColor=white" alt="Gmail" />
   <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </p>
 
