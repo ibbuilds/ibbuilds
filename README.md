@@ -11,7 +11,6 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
 ---
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-ff082d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -29,4 +28,5 @@ I'm a full-stack engineer focused on building reliable, scalable, and accessible
   <img src="https://img.shields.io/badge/aws-1d242e?style=for-the-badge&logo=alfred&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Figma-ff082d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
