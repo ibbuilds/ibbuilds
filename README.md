@@ -1,6 +1,6 @@
 # Hey! I'm Ivan 👋
 
-I’m a full-stack engineer who believes in making ideas real through hard work, creativity, and persistence. I want to keep growing and build things that truly make a difference, and I’m ready to put in all the effort it takes. I adapt, learn fast, and always push myself to improve, seeing every project as a step toward achieving my dreams.
+A full-stack engineer who believes in making ideas real through hard work, creativity, and persistence. I want to keep growing and build things that truly make a difference, and I’m ready to put in all the effort it takes. I adapt, learn fast, and always push myself to improve, seeing every project as a step toward achieving my dreams.
 
 ---
 
