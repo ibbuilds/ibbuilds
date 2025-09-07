@@ -1,10 +1,6 @@
 # Hey! I'm Ivan 👋
 
-I'm a full-stack engineer focused on building reliable, scalable, and accessible web applications using React, Node.js, TypeScript, Express, and PostgreSQL. Currently, I'm developing a real-world collaboration platform for Lions Clubs International, with an emphasis on performance, usability, and clean design standards.
-
-- Architecting and delivering scalable full-stack platforms built for high availability and moderate user bases
-- Designing and engineering frictionless, high-performance interfaces that drive engagement and retention
-- Building and shipping production-grade features that reflect real-world complexity, edge cases, and scale
+I’m a full-stack engineer who believes in making ideas real through hard work, creativity, and persistence. I want to keep growing and build things that truly make a difference, and I’m ready to put in all the effort it takes. I adapt, learn fast, and always push myself to improve, seeing every project as a step toward achieving my dreams.
 
 ---
 
