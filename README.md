@@ -1,6 +1,6 @@
 # Hey! I'm Ivan 👋
 
-A software engineer who believes in making ideas happen through hard work, creativity, and resilience.
+A software engineer who believes in making things happen through resilience.
 
 ---
 
