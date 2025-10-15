@@ -1,6 +1,6 @@
 # Hey! I'm Ivan 👋
 
-A software engineer who makes things happen through resilience.
+A resilient software engineer who makes things happen.
 
 ---
 
