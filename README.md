@@ -11,8 +11,5 @@ A resilient software engineer who makes things happen.
   <a href="https://codolio.com/profile/ibgrinds">
     <img src="https://img.shields.io/badge/Codolio-facc15?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
   </a>
-  <a href="mailto:ivanbravoprofessional@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </p>
 
