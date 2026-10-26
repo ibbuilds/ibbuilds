@@ -1,6 +1,6 @@
 # Hey! I'm Ivan 👋
 
-A resilient software engineer who makes things happen.
+Software Engineer by profession, AI Engineer by hustle, and a dreamer at heart.
 
 ---
 
