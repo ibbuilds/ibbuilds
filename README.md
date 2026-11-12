@@ -1,6 +1,6 @@
 # Hey! I'm Ivan 👋
 
-We're here to play
+Software Engineer / We're here to play
 
 ---
 
