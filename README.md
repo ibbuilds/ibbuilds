@@ -1,6 +1,6 @@
 # Hey! I'm Ivan 👋
 
-Software Engineer by profession, AI Engineer by hustle, and dreamer at heart.
+We're here to play
 
 ---
 
